@@ -1,0 +1,1 @@
+Setiap warga negara Indonesia berhak melakukan perjalanan keluar dan masuk Wilayah Indonesia.
