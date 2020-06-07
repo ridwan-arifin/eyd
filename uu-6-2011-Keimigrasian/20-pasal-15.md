@@ -1,0 +1,1 @@
+Setiap orang dapat keluar Wilayah Indonesia setelah memenuhi persyaratan dan mendapat Tanda Keluar dari Pejabat Imigrasi.

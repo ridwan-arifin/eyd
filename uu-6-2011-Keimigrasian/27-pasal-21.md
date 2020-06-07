@@ -1,0 +1,1 @@
+Dalam hal terdapat dugaan adanya pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 17 atau Pasal 18, Pejabat Imigrasi berwenang memerintahkan Penanggung Jawab Alat Angkut untuk menghentikan atau membawa alat angkutnya ke suatu tempat guna kepentingan pemeriksaan Keimigrasian.

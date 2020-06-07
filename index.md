@@ -18,3 +18,12 @@
 **[Pasal 12](uu-6-2011-Keimigrasian/16-pasal-12.md)**
 **[Pasal 13](uu-6-2011-Keimigrasian/17-pasal-13.md)**
 **[Pasal 14](uu-6-2011-Keimigrasian/18-pasal-14.md)**
+**[Keluar Wilayah Indonesia](uu-6-2011-Keimigrasian/19-keluar-wil-indo.md)**
+**[Pasal 15](uu-6-2011-Keimigrasian/20-pasal-15.md)**
+**[Pasal 16](uu-6-2011-Keimigrasian/21-pasal-16.md)**
+**[Kewajiban Penanggung Jawab Alat Angkut](uu-6-2011-Keimigrasian/22-kewajiban-pjaa.md)**
+**[Pasal 17](uu-6-2011-Keimigrasian/23-pasal-17.md)**
+**[Pasal 18](uu-6-2011-Keimigrasian/24-pasal-18.md)**
+**[Pasal 19](uu-6-2011-Keimigrasian/25-pasal-19.md)**
+**[Pasal 20](uu-6-2011-Keimigrasian/26-pasal-20.md)**
+**[Pasal 21](uu-6-2011-Keimigrasian/27-pasal-21.md)**
