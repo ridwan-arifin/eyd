@@ -1,7 +1,7 @@
 ## Daftar Isi
 
 1. **[Ketentuan Umum](uu-6-2011-Keimigrasian/1-ketentuan-umum.md)**
-2. **[Pasal 1](uu-6-2011-Keimigrasian/pasal-1.md)**
+2. **[Pasal 1](uu-6-2011-Keimigrasian/2-pasal-1.md)**
 3. **[Pelaksanaan Fungsi Keimigrasian](uu-6-2011-Keimigrasian/3-pelaksanaan-fungsi-keimigrasian.md)**
 4. **[Pasal 2](uu-6-2011-Keimigrasian/4-pasal-2.md)**
 5. **[Pasal 3](uu-6-2011-Keimigrasian/5-pasal-3.md)**
