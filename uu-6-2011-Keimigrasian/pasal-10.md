@@ -1,0 +1,1 @@
+Orang Asing yang telah memenuhi persyaratan dapat masuk Wilayah Indonesia setelah mendapatkan Tanda Masuk.

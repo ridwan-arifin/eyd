@@ -1,0 +1,1 @@
+Pemerintah dapat melakukan kerja sama internasional di bidang Keimigrasian dengan negara lain dan/atau dengan badan atau organisasi internasional berdasarkan ketentuan peraturan perundang-undangan.
