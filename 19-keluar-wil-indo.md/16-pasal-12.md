@@ -1,0 +1,1 @@
+Menteri berwenang melarang Orang Asing berada di daerah tertentu di Wilayah Indonesia.
