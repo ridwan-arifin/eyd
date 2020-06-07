@@ -1,9 +1,7 @@
 Dalam Undang-Undang ini yang dimaksud dengan:
-1. 
-Keimigrasian adalah hal ihwal lalu lintas orang yang masuk atau keluar Wilayah Indonesia serta pengawasannya dalam rangka menjaga tegaknya kedaulatan negara.
+1. Keimigrasian adalah hal ihwal lalu lintas orang yang masuk atau keluar Wilayah Indonesia serta pengawasannya dalam rangka menjaga tegaknya kedaulatan negara.
 
-2. 
-Wilayah Negara Republik Indonesia yang selanjutnya disebut Wilayah Indonesia adalah seluruh wilayah Indonesia serta zona tertentu yang ditetapkan berdasarkan undang-undang.
+2. Wilayah Negara Republik Indonesia yang selanjutnya disebut Wilayah Indonesia adalah seluruh wilayah Indonesia serta zona tertentu yang ditetapkan berdasarkan undang-undang.
 
 3. Fungsi Keimigrasian adalah bagian dari urusan pemerintahan negara dalam memberikan pelayanan Keimigrasian, penegakan hukum, keamanan negara, dan fasilitator pembangunan kesejahteraan masyarakat.
 
