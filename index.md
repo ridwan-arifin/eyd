@@ -176,5 +176,5 @@
 * **[Pasal 144](uu-6-2011-Keimigrasian/pasal-144.md)**
 * **[Pasal 145](uu-6-2011-Keimigrasian/pasal-145.md)**
 ## PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 6 TAHUN 2011 TENTANG KEIMIGRASIAN
-* **[Umum](uu-6-2011-Keimigrasian/pasal-145.md)**
+* **[Umum](uu-6-2011-Keimigrasian/penjelasan-umum.md)**
 
