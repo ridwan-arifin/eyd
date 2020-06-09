@@ -1,0 +1,1 @@
+Pemberian Visa diplomatik dan Visa dinas merupakan kewenangan Menteri Luar Negeri dan dalam pelaksanaannya dikeluarkan oleh pejabat dinas luar negeri di Perwakilan Republik Indonesia.

@@ -1,0 +1,1 @@
+Surat Perjalanan Laksana Paspor dapat dikeluarkan untuk orang perseorangan atau kolektif.

@@ -1,0 +1,1 @@
+Setiap warga negara Indonesia hanya diperbolehkan memegang 1 (satu) Dokumen Perjalanan Republik Indonesia yang sejenis atas namanya sendiri yang masih berlaku.

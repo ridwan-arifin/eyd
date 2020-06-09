@@ -1,0 +1,1 @@
+Ketentuan lebih lanjut mengenai tata cara dan persyaratan pemberian, penarikan, pembatalan, pencabutan, penggantian, serta pengadaan blanko dan standardisasi Dokumen Perjalanan Republik Indonesia diatur dengan Peraturan Pemerintah.

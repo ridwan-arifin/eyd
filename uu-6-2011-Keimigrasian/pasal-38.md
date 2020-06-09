@@ -1,0 +1,1 @@
+Visa kunjungan diberikan kepada Orang Asing yang akan melakukan perjalanan ke Wilayah Indonesia dalam rangka kunjungan tugas pemerintahan, pendidikan, sosial budaya, pariwisata, bisnis, keluarga, jurnalistik, atau singgah untuk meneruskan perjalanan ke negara lain.

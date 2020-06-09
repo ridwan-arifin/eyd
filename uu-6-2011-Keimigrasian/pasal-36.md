@@ -1,0 +1,1 @@
+Visa dinas diberikan kepada Orang Asing pemegang Paspor dinas dan Paspor lain yang akan melakukan perjalanan ke Wilayah Indonesia dalam rangka melaksanakan tugas resmi yang tidak bersifat diplomatik dari pemerintah asing yang bersangkutan atau organisasi internasional.
