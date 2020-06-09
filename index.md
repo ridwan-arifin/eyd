@@ -1,6 +1,6 @@
 ## Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian
 
-1. **[Ketentuan Umum](uu-6-2011-Keimigrasian/1-ketentuan-umum.md)**
+1. **[Ketentuan Umum](uu-6-2011-Keimigrasian)**
 2. **[Pasal 1](uu-6-2011-Keimigrasian/2-pasal-1.md)**
 3. **[Pelaksanaan Fungsi Keimigrasian](uu-6-2011-Keimigrasian/3-pelaksanaan-fungsi-keimigrasian.md)**
 4. **[Pasal 2](uu-6-2011-Keimigrasian/4-pasal-2.md)**
@@ -27,3 +27,10 @@
 25. **[Pasal 19](uu-6-2011-Keimigrasian/25-pasal-19.md)**
 26. **[Pasal 20](uu-6-2011-Keimigrasian/26-pasal-20.md)**
 27. **[Pasal 21](uu-6-2011-Keimigrasian/27-pasal-21.md)**
+28. **[Area Imigrasi](uu-6-2011-Keimigrasian)**
+29. **[Pasal 22](uu-6-2011-Keimigrasian/28-pasal-22.md)**
+30. **[Pasal 23](uu-6-2011-Keimigrasian/29-pasal-23.md)**
+31. **[Pasal 24](uu-6-2011-Keimigrasian/30-pasal-24.md)**
+32. **[Pasal 25](uu-6-2011-Keimigrasian/31-pasal-25.md)**
+33. **[Pasal 26](uu-6-2011-Keimigrasian/32-pasal-26.md)**
+34. **[Pasal 27](uu-6-2011-Keimigrasian/33-pasal-27.md)**
