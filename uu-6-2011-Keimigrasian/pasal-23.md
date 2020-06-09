@@ -1,0 +1,1 @@
+Ketentuan lebih lanjut mengenai persyaratan dan tata cara masuk dan keluar Wilayah Indonesia diatur dengan Peraturan Pemerintah.
