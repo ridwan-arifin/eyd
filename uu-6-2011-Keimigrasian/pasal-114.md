@@ -1,0 +1,4 @@
+(1) Penanggung Jawab Alat Angkut yang masuk atau keluar Wilayah Indonesia dengan alat angkutnya yang
+tidak melalui Tempat Pemeriksaan Imigrasi sebagaimana dimaksud dalam Pasal 17 ayat (1) dipidana dengan pidana penjara paling lama 1 (satu) tahun dan/atau pidana denda paling banyak Rp100.000.000,00 (seratus juta rupiah).
+
+(2) Penanggung Jawab Alat Angkut yang sengaja menurunkan atau menaikkan penumpang yang tidak melalui pemeriksaan Pejabat Imigrasi atau petugas pemeriksa pendaratan di Tempat Pemeriksaan Imigrasi sebagaimana dimaksud dalam Pasal 17 ayat (2) dipidana dengan pidana penjara paling lama 2 (dua) tahun dan/atau pidana denda paling banyak Rp200.000.000,00 (dua ratus juta rupiah).

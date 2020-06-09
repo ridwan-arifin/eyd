@@ -1,5 +1,6 @@
 # Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian
 ### Ridwan Arifin 2020
+
 ## Ketentuan Umum
 * **[Pasal 1](uu-6-2011-Keimigrasian/2-pasal-1.md)**
 ## Pelaksanaan Fungsi Keimigrasian
@@ -111,6 +112,69 @@
 * **[Pasal 89](uu-6-2011-Keimigrasian/pasal-89.md)**
 * **[Pasal 90](uu-6-2011-Keimigrasian/pasal-90.md)**
 ## Pencegahan dan Penangkalan
+### Pencegahan
 * **[Pasal 91](uu-6-2011-Keimigrasian/pasal-91.md)**
 * **[Pasal 92](uu-6-2011-Keimigrasian/pasal-92.md)**
+* **[Pasal 93](uu-6-2011-Keimigrasian/pasal-93.md)**
+* **[Pasal 94](uu-6-2011-Keimigrasian/pasal-94.md)**
+* **[Pasal 95](uu-6-2011-Keimigrasian/pasal-95.md)**
+* **[Pasal 96](uu-6-2011-Keimigrasian/pasal-96.md)**
+* **[Pasal 97](uu-6-2011-Keimigrasian/pasal-97.md)**
+### Penangkalan
+* **[Pasal 98](uu-6-2011-Keimigrasian/pasal-98.md)**
+* **[Pasal 99](uu-6-2011-Keimigrasian/pasal-99.md)**
+* **[Pasal 100](uu-6-2011-Keimigrasian/pasal-100.md)**
+* **[Pasal 101](uu-6-2011-Keimigrasian/pasal-101.md)**
+* **[Pasal 102](uu-6-2011-Keimigrasian/pasal-102.md)**
+* **[Pasal 103](uu-6-2011-Keimigrasian/pasal-103.md)**
+## Penyidikan
+* **[Pasal 104](uu-6-2011-Keimigrasian/pasal-104.md)**
+* **[Pasal 105](uu-6-2011-Keimigrasian/pasal-105.md)**
+* **[Pasal 106](uu-6-2011-Keimigrasian/pasal-106.md)**
+* **[Pasal 107](uu-6-2011-Keimigrasian/pasal-107.md)**
+* **[Pasal 108](uu-6-2011-Keimigrasian/pasal-108.md)**
+* **[Pasal 109](uu-6-2011-Keimigrasian/pasal-109.md)**
+* **[Pasal 110](uu-6-2011-Keimigrasian/pasal-110.md)**
+* **[Pasal 111](uu-6-2011-Keimigrasian/pasal-111.md)**
+* **[Pasal 112](uu-6-2011-Keimigrasian/pasal-112.md)**
+## Ketentuan Pidana
+* **[Pasal 113](uu-6-2011-Keimigrasian/pasal-113.md)**
+* **[Pasal 114](uu-6-2011-Keimigrasian/pasal-114.md)**
+* **[Pasal 115](uu-6-2011-Keimigrasian/pasal-115.md)**
+* **[Pasal 116](uu-6-2011-Keimigrasian/pasal-116.md)**
+* **[Pasal 117](uu-6-2011-Keimigrasian/pasal-117.md)**
+* **[Pasal 118](uu-6-2011-Keimigrasian/pasal-118.md)**
+* **[Pasal 119](uu-6-2011-Keimigrasian/pasal-119.md)**
+* **[Pasal 120](uu-6-2011-Keimigrasian/pasal-120.md)**
+* **[Pasal 121](uu-6-2011-Keimigrasian/pasal-121.md)**
+* **[Pasal 122](uu-6-2011-Keimigrasian/pasal-122.md)**
+* **[Pasal 123](uu-6-2011-Keimigrasian/pasal-123.md)**
+* **[Pasal 124](uu-6-2011-Keimigrasian/pasal-124.md)**
+* **[Pasal 125](uu-6-2011-Keimigrasian/pasal-125.md)**
+* **[Pasal 126](uu-6-2011-Keimigrasian/pasal-126.md)**
+* **[Pasal 127](uu-6-2011-Keimigrasian/pasal-127.md)**
+* **[Pasal 128](uu-6-2011-Keimigrasian/pasal-128.md)**
+* **[Pasal 129](uu-6-2011-Keimigrasian/pasal-129.md)**
+* **[Pasal 130](uu-6-2011-Keimigrasian/pasal-130.md)**
+* **[Pasal 131](uu-6-2011-Keimigrasian/pasal-131.md)**
+* **[Pasal 132](uu-6-2011-Keimigrasian/pasal-132.md)**
+* **[Pasal 133](uu-6-2011-Keimigrasian/pasal-133.md)**
+* **[Pasal 134](uu-6-2011-Keimigrasian/pasal-134.md)**
+* **[Pasal 135](uu-6-2011-Keimigrasian/pasal-135.md)**
+* **[Pasal 136](uu-6-2011-Keimigrasian/pasal-136.md)**
+## Biaya
+* **[Pasal 137](uu-6-2011-Keimigrasian/pasal-137.md)**
+* **[Pasal 138](uu-6-2011-Keimigrasian/pasal-138.md)**
+## Ketentuan Lain-Lain
+* **[Pasal 139](uu-6-2011-Keimigrasian/pasal-139.md)**
+* **[Pasal 140](uu-6-2011-Keimigrasian/pasal-140.md)**
+## Ketentuan Peralihan
+* **[Pasal 141](uu-6-2011-Keimigrasian/pasal-141.md)**
+## Ketentuan Penutup
+* **[Pasal 142](uu-6-2011-Keimigrasian/pasal-142.md)**
+* **[Pasal 143](uu-6-2011-Keimigrasian/pasal-143.md)**
+* **[Pasal 144](uu-6-2011-Keimigrasian/pasal-144.md)**
+* **[Pasal 145](uu-6-2011-Keimigrasian/pasal-145.md)**
+## PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 6 TAHUN 2011 TENTANG KEIMIGRASIAN
+* **[Umum](uu-6-2011-Keimigrasian/pasal-145.md)**
 

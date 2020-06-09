@@ -1,0 +1,1 @@
+Penyidikan tindak pidana Keimigrasian dilakukan berdasarkan hukum acara pidana.
