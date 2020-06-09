@@ -1,7 +1,7 @@
 # Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian
 ### Ridwan Arifin 2020
 
-## Ketentuan Umum
+   ## Ketentuan Umum
 * **[Pasal 1](uu-6-2011-Keimigrasian/2-pasal-1.md)**
 ## Pelaksanaan Fungsi Keimigrasian
 * **[Pasal 2](uu-6-2011-Keimigrasian/4-pasal-2.md)**
