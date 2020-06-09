@@ -1,4 +1,4 @@
-## Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian
+# Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian
 
 ## Ketentuan Umum
 2. **[Pasal 1](uu-6-2011-Keimigrasian/2-pasal-1.md)**
