@@ -1,0 +1,1 @@
+Ketentuan lebih lanjut mengenai persyaratan dan tata cara permohonan, jenis kegiatan, dan jangka waktu Visa, serta tata cara pemberian Tanda Masuk diatur dengan Peraturan Pemerintah.

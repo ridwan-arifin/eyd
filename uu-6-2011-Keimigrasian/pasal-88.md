@@ -1,0 +1,1 @@
+Menteri atau Pejabat Imigrasi yang ditunjuk mengupayakan agar korban perdagangan orang dan Penyelundupan Manusia yang berkewarganegaraan asing segera dikembalikan ke negara asal mereka dan diberikan surat perjalanan apabila mereka tidak memilikinya.

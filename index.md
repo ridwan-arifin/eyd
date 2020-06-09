@@ -1,7 +1,7 @@
 # Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian
 ### Ridwan Arifin 2020
 ## Ketentuan Umum
-**[Pasal 1](uu-6-2011-Keimigrasian/2-pasal-1.md)**
+* **[Pasal 1](uu-6-2011-Keimigrasian/2-pasal-1.md)**
 ## Pelaksanaan Fungsi Keimigrasian
 * **[Pasal 2](uu-6-2011-Keimigrasian/4-pasal-2.md)**
 * **[Pasal 3](uu-6-2011-Keimigrasian/5-pasal-3.md)**
@@ -77,3 +77,40 @@
 * **[Pasal 63](uu-6-2011-Keimigrasian/pasal-63.md)**
 * **[Pasal 64](uu-6-2011-Keimigrasian/pasal-64.md)**
 * **[Pasal 65](uu-6-2011-Keimigrasian/pasal-65.md)**
+## Pengawasan Keimigrasian
+### Ketentuan Umum
+* **[Pasal 66](uu-6-2011-Keimigrasian/pasal-66.md)**
+* **[Pasal 67](uu-6-2011-Keimigrasian/pasal-67.md)**
+* **[Pasal 68](uu-6-2011-Keimigrasian/pasal-68.md)**
+* **[Pasal 69](uu-6-2011-Keimigrasian/pasal-69.md)**
+* **[Pasal 70](uu-6-2011-Keimigrasian/pasal-70.md)**
+* **[Pasal 71](uu-6-2011-Keimigrasian/pasal-71.md)**
+* **[Pasal 72](uu-6-2011-Keimigrasian/pasal-72.md)**
+* **[Pasal 73](uu-6-2011-Keimigrasian/pasal-73.md)**
+### Intelijen Keimigrasian
+* **[Pasal 74](uu-6-2011-Keimigrasian/pasal-74.md)**
+## Tindakan Administratif Keimigrasian
+* **[Pasal 75](uu-6-2011-Keimigrasian/pasal-75.md)**
+* **[Pasal 76](uu-6-2011-Keimigrasian/pasal-76.md)**
+* **[Pasal 77](uu-6-2011-Keimigrasian/pasal-77.md)**
+* **[Pasal 78](uu-6-2011-Keimigrasian/pasal-78.md)**
+* **[Pasal 79](uu-6-2011-Keimigrasian/pasal-79.md)**
+* **[Pasal 80](uu-6-2011-Keimigrasian/pasal-80.md)**
+## Rumah Detensi Imigrasi dan Ruang Detensi Imigrasi
+* **[Pasal 81](uu-6-2011-Keimigrasian/pasal-81.md)**
+* **[Pasal 82](uu-6-2011-Keimigrasian/pasal-82.md)**
+### Pelaksanaan Detensi
+* **[Pasal 83](uu-6-2011-Keimigrasian/pasal-83.md)**
+* **[Pasal 84](uu-6-2011-Keimigrasian/pasal-84.md)**
+### Jangka Waktu Detensi
+* **[Pasal 85](uu-6-2011-Keimigrasian/pasal-85.md)**
+### Penanganan terhadap Korban Perdagangan Orang dan Penyelundupan Manusia
+* **[Pasal 86](uu-6-2011-Keimigrasian/pasal-86.md)**
+* **[Pasal 87](uu-6-2011-Keimigrasian/pasal-87.md)**
+* **[Pasal 88](uu-6-2011-Keimigrasian/pasal-88.md)**
+* **[Pasal 89](uu-6-2011-Keimigrasian/pasal-89.md)**
+* **[Pasal 90](uu-6-2011-Keimigrasian/pasal-90.md)**
+## Pencegahan dan Penangkalan
+* **[Pasal 91](uu-6-2011-Keimigrasian/pasal-91.md)**
+* **[Pasal 92](uu-6-2011-Keimigrasian/pasal-92.md)**
+

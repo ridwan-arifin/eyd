@@ -1,0 +1,1 @@
+Dalam hal Pejabat Imigrasi meragukan status Izin Tinggal Orang Asing dan kewarganegaraan seseorang, Pejabat Imigrasi berwenang menelaah serta memeriksa status Izin Tinggal dan kewarganegaraannya.

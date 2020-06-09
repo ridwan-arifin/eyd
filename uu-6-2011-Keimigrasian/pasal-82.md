@@ -1,0 +1,1 @@
+Ruang Detensi Imigrasi berbentuk suatu ruangan tertentu dan merupakan bagian dari kantor Direktorat Jenderal, Kantor Imigrasi, atau Tempat Pemeriksaan Imigrasi.

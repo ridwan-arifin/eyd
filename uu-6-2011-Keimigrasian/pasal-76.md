@@ -1,0 +1,1 @@
+Keputusan mengenai Tindakan Administratif Keimigrasian sebagaimana dimaksud dalam Pasal 75 ayat (1) dan ayat (3) dilakukan secara tertulis dan harus disertai dengan alasan.

@@ -1,0 +1,1 @@
+Pemegang Izin Tinggal terbatas sebagaimana dimaksud dalam Pasal 52 huruf e dan huruf f dan pemegang Izin Tinggal Tetap sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf b dan huruf d dapat melakukan pekerjaan dan/atau usaha untuk memenuhi kebutuhan hidup dan/atau keluarganya.

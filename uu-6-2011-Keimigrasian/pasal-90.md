@@ -1,0 +1,1 @@
+Ketentuan lebih lanjut mengenai pengawasan Keimigrasian, Intelijen Keimigrasian, Rumah Detensi Imigrasi dan Ruang Detensi Imigrasi, serta penanganan terhadap korban perdagangan orang dan Penyelundupan Manusia diatur dengan Peraturan Pemerintah.

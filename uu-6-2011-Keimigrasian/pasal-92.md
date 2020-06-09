@@ -1,0 +1,1 @@
+Dalam keadaan yang mendesak pejabat sebagaimana dimaksud dalam Pasal 91 ayat (2) dapat meminta secara langsung kepada Pejabat Imigrasi tertentu untuk melakukan Pencegahan.

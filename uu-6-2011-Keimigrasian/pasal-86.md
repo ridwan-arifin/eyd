@@ -1,0 +1,1 @@
+Ketentuan Tindakan Administratif Keimigrasian tidak diberlakukan terhadap korban perdagangan orang dan Penyelundupan Manusia.

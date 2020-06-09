@@ -1,0 +1,1 @@
+Ketentuan mengenai pengawasan terhadap Orang Asing sebagaimana dimaksud dalam Pasal 68 ayat (1) huruf b, huruf c, huruf d, dan huruf e tidak diberlakukan terhadap Orang Asing yang berada di Wilayah Indonesia dalam rangka tugas diplomatik.

@@ -1,0 +1,1 @@
+Biaya beban sebagaimana dimaksud dalam Pasal 19 ayat (4) dan Pasal 79 merupakan salah satu Penerimaan Negara Bukan Pajak di bidang Keimigrasian.

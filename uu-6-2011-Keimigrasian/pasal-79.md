@@ -1,0 +1,1 @@
+Penanggung Jawab Alat Angkut yang tidak memenuhi kewajiban sebagaimana dimaksud dalam Pasal 18 ayat (1) dikenai biaya beban.

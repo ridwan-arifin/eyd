@@ -1,0 +1,2 @@
+Ketentuan lebih lanjut mengenai tata cara dan persyaratan permohonan, jangka waktu, pemberian, perpanjangan,
+atau pembatalan Izin Tinggal, dan alih status Izin Tinggal diatur dengan Peraturan Pemerintah.
