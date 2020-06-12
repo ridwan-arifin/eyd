@@ -3,7 +3,7 @@
 
 ## Bab I Ketentuan Umum
 * **[Pasal 1](uu-6-2011-Keimigrasian/2-pasal-1.md)**
-## Bab 2 Pelaksanaan Fungsi Keimigrasian
+## Bab II Pelaksanaan Fungsi Keimigrasian
 ### Umum
 * **[Pasal 2](uu-6-2011-Keimigrasian/4-pasal-2.md)**
 * **[Pasal 3](uu-6-2011-Keimigrasian/5-pasal-3.md)**
