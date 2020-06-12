@@ -6,4 +6,5 @@
     a. atas kehendak sendiri keluar Wilayah Indonesia sepanjang tidak terkena pencegahan;
     b. dikenai Deportasi; atau
     c. repatriasi.
+    
 (4) Surat Perjalanan Laksana Paspor diterbitkan oleh Menteri atau Pejabat Imigrasi yang ditunjuk.
