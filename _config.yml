@@ -2,7 +2,9 @@ site_name: EYD DARING
 pages:
   - 'Beranda': 'index.md'
   - 'Bahasa': 'bahasa/tes.md'
-theme: jekyll-theme-minimal
+theme: 
+  name: null
+  custom_dir: mkdocs-material/material
 repo_name: 'Github'
 repo_url: 'https://github.com/ridwan-arifin/eyd'
 google_analytics: ['UA-80210173-1', 'auto']
